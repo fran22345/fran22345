@@ -18,5 +18,3 @@ Soy Fullstack Developer, actualmente estoy programando con **JavaScript** y su e
 ### Contactame
 [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://manibarathi.web.app/)
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/mani-bharathi-08/)
-
-#### Feel free to create a pull request to contribute to any of my repositories.💙
